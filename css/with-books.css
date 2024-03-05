@@ -180,13 +180,18 @@ main {
 .shopping-amazon-link {
 }
 .shopping-listamazon-img {
+  width: 32px;
+  height: 11px;
 }
 .shoppinglist-book-low-li-apple {
 }
 .shopping-apple-link {
 }
 .shopping-apple-img {
+  width: 16px;
+  height: 16px;
 }
+
 .shoppinglist-book-deletebutton {
   z-index: 10;
   width: 28px;
@@ -258,6 +263,14 @@ main {
   }
   .shoppinglist-book-low-ul {
     gap: 16px;
+  }
+  .shopping-listamazon-img {
+    width: 48px;
+    height: 15px;
+  }
+  .shopping-apple-img {
+    width: 28px;
+    height: 27px;
   }
   .shoppinglist-book-deletebutton {
     width: 34px;
