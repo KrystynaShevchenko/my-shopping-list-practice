@@ -41,7 +41,11 @@ main {
   background-color: #e0e0e0;
 }
 /** ==================New Styles mob-first======================== */
-
+.books {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 .container {
   max-width: 374.9px;
   margin: 0 auto;
